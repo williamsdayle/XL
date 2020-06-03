@@ -1,2 +1,3 @@
 # XL
-Code repository in public test
+In this file will contain all information to run the application
+
